@@ -12,6 +12,7 @@
 <div class="footer-style">
 <div class="row footer-row">
 <!--Edit for b1-->
+<!--Edit for b1.1-->
 <!--Edit for b2-->
 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 	<div class="footer-header">About</div>
