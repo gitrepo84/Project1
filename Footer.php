@@ -9,14 +9,14 @@
 
 <footer>
 
-<div class="footer-style">
-<div class="row footer-row">
+<div class="footerx-style">
+<div class="row1 footer-row">
 <!--Edit for b1-->
 <!--Edit for b1.1-->
 <!--Edit for b2-->
 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 	<div class="footer-header">About</div>
-	<ul class="footer-ul">
+	<ul class="footser-ul">
 		<li class="footer-li">Overview</li>
 		<li class="footer-li">Contact</li>
 		<li class="footer-li">Request Quote</li>
