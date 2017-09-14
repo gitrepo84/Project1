@@ -13,6 +13,7 @@
 <div class="row1 footer-row">
 <!--Edit for b1-->
 <!--Edit for b2-->
+<!--edit from sb2-->
 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
 	<div class="footer-header">About</div>
 	<ul class="footser-ul">
